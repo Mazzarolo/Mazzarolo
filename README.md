@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello there 👍, I'm João Davi Rigo Mazzarolo
 
-<!--
-**Mazzarolo/Mazzarolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</br>
 
-Here are some ideas to get you started:
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazzarolo&show_icons=true&theme=tokyonight" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<div>
+  <img align="center" src="https://giffiles.alphacoders.com/146/14623.gif" />
+</div>
+
+</br>
+
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+</div>
+
+</br>
+
+<div>
+  <img align="center" src="https://giffiles.alphacoders.com/146/14616.gif" />
+</div>
+
+</br>
+
+Information:
+
+- 🔭 I’m currently studing in Universidade Federal de Santa Maria
+- 🌱 I’m currently learning different programming languages
+- 🎱 Fun fact: I like Dark Souls
