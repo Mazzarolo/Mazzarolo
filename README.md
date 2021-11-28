@@ -15,7 +15,7 @@
 </br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://giffiles.alphacoders.com/209/209661.gif" />
 </div>
 
 </br>
