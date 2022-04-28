@@ -3,13 +3,19 @@
 </br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazzarolo&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mazzarolo&show_icons=true&theme=radical" />
 </div>
 
 </br>
 
 <div align="center">
   <img align="center" src="https://giffiles.alphacoders.com/146/14623.gif" />
+</div>
+
+</br>
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazzarolo&layout=compact&theme=radical" />
 </div>
 
 </br>
