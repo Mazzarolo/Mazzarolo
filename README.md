@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **PET-CC at UFSM (Universidade Federal de Santa Maria))**
 
-- 🌱 I’m currently learning **Research with machine learning, and development with React and Node.js**
+- 🌱 I’m currently learning **Research with machine learning and computer vision, and development with React and Node.js**
 
 - 👯 I’m looking to collaborate on **Interships in areas like development or Dev Ops**
 
