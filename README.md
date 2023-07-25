@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Research with machine learning and computer vision, and development with React and Node.js**
 
-- 👯 I’m looking to collaborate on **Interships in areas like development or Dev Ops**
+- 👯 I’m looking to collaborate on **Interships in areas like development or Computer Vision**
 
 - 💬 Ask me about **C++, C, C#, Python, SQL, HTML, CSS, Javascript**
 
