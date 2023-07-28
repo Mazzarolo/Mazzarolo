@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **PET-CC at UFSM (Universidade Federal de Santa Maria))**
 
-- 🌱 I’m currently learning **Research with machine learning and computer vision, and development with React and Node.js**
+- 🌱 I’m currently learning **Research with machine learning and computer vision, using python and YOLOv8**
 
-- 👯 I’m looking to collaborate on **Interships in areas like development or Computer Vision**
+- 👯 I’m looking to collaborate on **Interships in areas like Machine Learning and Computer Vision**
 
-- 💬 Ask me about **C++, C, C#, Python, SQL, HTML, CSS, Javascript**
+- 💬 Ask me about **Computer Vision and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
