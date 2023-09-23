@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Data Science/Engineering intern at V360**
 
-- ☕️ I’m currently studying at **UFSM (Federal University of Santa Maria)**
+- ☕️ I’m currently studying **Computer Science** at **UFSM (Federal University of Santa Maria)**
 
 - 🌱 I’m currently learning **Research with machine learning and computer vision, using python and YOLOv8**
 
