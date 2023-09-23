@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm João Davi Rigo Mazzarolo</h1>
 <h3 align="center">A passionate programer from Brasil</h3>
 
-- 🔭 I’m currently working as a **Data Science intern at V360**
+- 🔭 I’m currently working as a **Data Science/Engineering intern at V360**
+
+- ☕️ I’m currently studying at **UFSM (Federal University of Santa Maria)**
 
 - 🌱 I’m currently learning **Research with machine learning and computer vision, using python and YOLOv8**
 
